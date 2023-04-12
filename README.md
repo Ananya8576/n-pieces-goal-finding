@@ -1,5 +1,7 @@
 # n-pieces-goal-finding
 
+Assignment under Prof. Darren for the module: CS3243
+
 Similar to n-queens problem, here we use n-pieces threatening one another so we have to place the given pieces in a way that none of them threaten each other with obstacles on the varying chessboard
 
 The pieces are: King, Queen, Rook, Bishop, Knight and fairy pieces like Ferz, Princess, Empress
